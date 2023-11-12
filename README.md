@@ -1,5 +1,11 @@
 #DevOps Example
 
+##### webhooks?
+
+    웹 개발의 Webhook = 사용자 정의 callback을 사용하여 웹 페이지 또는 애플리케이션의 동작을 향상하거나 변경하는 방법
+
+
+
 ##### Node.js , npm 설치가 되어있어야 함.
     
     sudo apt install npm
@@ -12,7 +18,7 @@
 
 ![image](https://github.com/kimsy1106/lab-socket-programming/assets/53938323/eab68eb3-c7f3-459a-b295-19015afca2da)
 
-
+    Payload URL은 webhook POST request를 받을 서버 URL이다
 
 ##### webhooks.py 와 tcp-server.py 실행
 
