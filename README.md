@@ -20,6 +20,10 @@
 
     Payload URL은 webhook POST request를 받을 서버 URL이다
 
+##### git clone
+
+    git clone https://github.com/kimsy1106/lab-socket-programming
+
 ##### webhooks.py 와 tcp-server.py 실행
 
     pm2 start webhooks.py --name webhooks --interpreter python3
