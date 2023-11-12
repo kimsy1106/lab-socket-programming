@@ -20,6 +20,8 @@
 
     pm2 start tcp-server.py --name tcp-server --interpreter python3 --watch        << watch 옵션 : 소스코드가 변경되면 재가동
 
+###### 주의 : webhooks.py 에서 build경로와 branch명 유의 
+
 ![image](https://github.com/kimsy1106/lab-socket-programming/assets/53938323/819cb8c1-880d-4081-8ce2-2f46a13c004f)
 
 
