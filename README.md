@@ -8,6 +8,12 @@
 
     npm install -g pm2
 
+##### settings > webhooks 설정
+
+![image](https://github.com/kimsy1106/lab-socket-programming/assets/53938323/eab68eb3-c7f3-459a-b295-19015afca2da)
+
+
+
 ##### webhooks.py 와 tcp-server.py 실행
 
     pm2 start webhooks.py --name webhooks --interpreter python3
