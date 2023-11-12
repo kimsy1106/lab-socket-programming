@@ -3,7 +3,7 @@
 import socket
 
 IP = input("Server address: ")
-TCP_PORT = 5000
+TCP_PORT = 8080
 BUFFER_SIZE = 1024
 MESSAGE = ''
 
